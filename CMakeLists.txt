@@ -3,9 +3,10 @@ project(Demo)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Demo main.cpp
-        计算机类.cpp
-        计算机类.cpp
-        纯虚函数和抽象类.cpp
-        制作饮品.cpp
+add_executable(Demo Base/多态的基本语法.cpp
+        Base/计算机类.cpp
+        Base/计算机类.cpp
+        Base/纯虚函数和抽象类.cpp
+        Base/制作饮品.cpp
+        Base/虚析构和纯虚析构.cpp
 )
