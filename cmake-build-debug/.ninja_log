@@ -1,0 +1,6 @@
+# ninja log v6
+15	454	7626294949115326	CMakeFiles/Demo.dir/main.cpp.obj	662a7cc696d6265e
+425	515	7626299770499776	Demo.exe	2163deab2305bae6
+17	417	7626299766409384	CMakeFiles/Demo.dir/计算机类.cpp.obj	35873a97bf30c324
+21	425	7626299766456592	CMakeFiles/Demo.dir/纯虚函数和抽象类.cpp.obj	5c3d4b06ef231b5c
+9	280	7626300379337078	build.ninja	3bf63730395ebe21
