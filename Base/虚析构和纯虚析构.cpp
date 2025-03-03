@@ -43,15 +43,15 @@ class Cat: public Animal {
     string * m_Name;
 };
 
-void test01() {
-    Animal *a = new Cat("Tom");
-    a->speak();
-    //父类的指针在析构时候 不会调用子类析构函数 导致子类如果有堆区属性 会导致内存泄漏
-    delete a;
-}
-
-int main() {
-    test01();
-    return 0;
-}
+// void test01() {
+//     Animal *a = new Cat("Tom");
+//     a->speak();
+//     //父类的指针在析构时候 不会调用子类析构函数 导致子类如果有堆区属性 会导致内存泄漏
+//     delete a;
+// }
+//
+// int main() {
+//     test01();
+//     return 0;
+// }
 

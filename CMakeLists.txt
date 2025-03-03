@@ -9,4 +9,5 @@ add_executable(Demo Base/多态的基本语法.cpp
         Base/纯虚函数和抽象类.cpp
         Base/制作饮品.cpp
         Base/虚析构和纯虚析构.cpp
+        Base/电脑组装.cpp
 )
