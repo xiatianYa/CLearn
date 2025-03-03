@@ -71,14 +71,14 @@ void doWork(AbstractDrinking * abs) {
     delete abs;
 }
 
-void test01() {
-    //制作咖啡
-    doWork(new Coffee);
-    //制作茶
-    doWork(new Tea);
-}
-
-int main() {
-    test01();
-    return 0;
-}
+// void test01() {
+//     //制作咖啡
+//     doWork(new Coffee);
+//     //制作茶
+//     doWork(new Tea);
+// }
+//
+// int main() {
+//     test01();
+//     return 0;
+// }

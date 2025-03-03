@@ -1,0 +1,3 @@
+C:/Users/Administrator/CLionProjects/CLearn/cmake-build-clearn/CMakeFiles/Demo.dir
+C:/Users/Administrator/CLionProjects/CLearn/cmake-build-clearn/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/CLionProjects/CLearn/cmake-build-clearn/CMakeFiles/rebuild_cache.dir
